@@ -6,5 +6,5 @@
 * Google Chrome
 * Working internet connection. 
 
-Tip: *This is coded with ease of use in mind so please find the fully compiled .JAR under releases, including all required libraries for this project.*
+Tip: *This project is coded with ease of use in mind so please find the fully compiled .JAR under releases, including all required libraries for this project.*
 
