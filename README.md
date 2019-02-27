@@ -11,5 +11,5 @@ Tip: *This project is coded with ease of use in mind so please find the fully co
 ## User guide
 Download and run the .JAR file under releases.
 
-Once the GUI is present, select "Start"
+Once the GUI is present, select "Start" and let the process commence.
 
