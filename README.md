@@ -2,6 +2,7 @@
 ### The only automated phonebook upload tool for the Newfies platform.
 
 ## Requirements
+*ChromeDriver
 * JDK/JRE 8
 * Google Chrome
 * Working internet connection. 
